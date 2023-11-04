@@ -17,6 +17,7 @@ Welcome to my software development toolkit repository! This repository serves as
 ## Frameworks
 
 - [TailwindCSS](https://tailwindcss.com/docs/guides/create-react-app)
+- [Chrome DevTools](https://github.com/GoogleChrome/lighthouse)
 
 ## IDEs
 
