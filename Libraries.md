@@ -42,3 +42,41 @@ IconsScout is a popular resource for finding and downloading icons for your proj
 ### Usage
 
 IconsScout is used to search and discover icons for various purposes, including adding visual elements to your user interfaces. You can find icons for different categories and styles to match your project's design.
+
+#### Use individual icons
+
+```jsx
+import React from 'react';
+import UilReact from '@iconscout/react-unicons/icons/uil-react'
+
+const App = () => {
+  return <UilReact size="140" color="#61DAFB" />
+};
+
+export default App;
+```
+
+You can customize icons as below:
+```jsx
+<Unicons.UilReact size="140" color="#61DAFB" 
+```
+
+#### Usage as full Package
+```jsx
+import React from 'react';
+import * as Unicons from '@iconscout/react-unicons';
+
+const App = () => {
+  return <Unicons.UilReact />
+};
+
+export default App;
+```
+
+### Installation
+To get start with using Iconscout with react, you could install it in your current react project.
+
+```shell
+npm install --save @iconscout/react-unicons
+```
+
