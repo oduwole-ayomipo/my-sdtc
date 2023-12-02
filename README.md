@@ -12,7 +12,10 @@ Welcome to my software development toolkit repository! This repository serves as
 
 - [ReactJS Library](https://react.dev/)
 - [Iconscout](https://iconscout.com/unicons)
+- [Iconify](https://iconify.design/docs/icon-components/react/)
 - [Luxon](https://moment.github.io/luxon/#/?id=luxon)
+- [Formik](https://formik.org/docs)
+- [Yup](https://www.npmjs.com/package/yup)
 
 ## Frameworks
 
