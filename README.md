@@ -16,6 +16,7 @@ Welcome to my software development toolkit repository! This repository serves as
 - [Luxon](https://moment.github.io/luxon/#/?id=luxon)
 - [Formik](https://formik.org/docs)
 - [Yup](https://www.npmjs.com/package/yup)
+- [Loading.io](https://loading.io/)
 
 ## Frameworks
 
