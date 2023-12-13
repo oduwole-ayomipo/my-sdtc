@@ -17,6 +17,7 @@ Welcome to my software development toolkit repository! This repository serves as
 - [Formik](https://formik.org/docs)
 - [Yup](https://www.npmjs.com/package/yup)
 - [Loading.io](https://loading.io/)
+- [Free Illustrations SVG](https://storyset.com/data)
 
 ## Frameworks
 
